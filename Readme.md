@@ -132,7 +132,7 @@ python task2_and_task3.py
 ## Results
 
 ### Task 1
-- **Average Space Utilization**: Achieved >90% efficiency on test datasets.
+- **Average Space Utilization**: Achieved high efficiency on test datasets.
 - **Visualization**: Demonstrates 3D item placement within the container, showing how the policy network optimizes packing.
 
 ### Task 2
